@@ -24,4 +24,5 @@ h2 {
 
 table, th, td {
   border: 1px solid;
+  color:  #008080;
 }
