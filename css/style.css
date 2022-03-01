@@ -5,7 +5,7 @@ img {
 
 p {
 	color: #008B8B;
-	font-family: Garamond, serif;
+	font-family: Arial, sans-serif;
 	
 }
 
@@ -14,11 +14,11 @@ body {
 }	
 
 h1 {
-	font-family: Garamond, serif;
+	font-family: Arial, sans-serif;
 }
 
 h2 {
-	font-family: Garamond, serif;
+	font-family: Arial, sans-serif;
 }
 
 table, th, td {

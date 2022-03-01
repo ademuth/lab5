@@ -5,9 +5,22 @@ img {
 
 p {
 	color: #008B8B;
+	font-family: Garamond, sans-serif;
 	
 }
 
 body {
 	background-image: url("images/galaxy.jpg");
 }	
+
+h1 {
+	font-family: Garamond, sans-serif;
+}
+
+h2 {
+	font-family: Garamond, sans-serif;
+}
+
+table, th, td {
+  border: 1px solid;
+}
