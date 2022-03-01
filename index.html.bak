@@ -13,19 +13,19 @@
 	<div class="container">
 	<figure class="planet">
 	  <img src="images/jupiter.jpg" alt="jupiter">
-		<figcaption>Jupiter</figcaption>
+		<figcaption class="description">Jupiter</figcaption>
 	</figure>
 	<figure class="planet">
 	  <img src="images/saturn.jpg" alt="saturn">
-		<figcaption>Saturn</figcaption>
+		<figcaption class="description">Saturn</figcaption>
 	</figure>
 	<figure class="planet">
 	  <img src="images/uranus.jpg" alt="uranus">
-		<figcaption>Uranus</figcaption>
+		<figcaption class="description">Uranus</figcaption>
 	</figure>
 	<figure class="planet">
 	  <img src="images/neptune.jpg" alt="neptune">
-		<figcaption>Neptune</figcaption>
+		<figcaption class="description">Neptune</figcaption>
 	</figure>
 	</div>
 	<table>
