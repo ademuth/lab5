@@ -16,12 +16,14 @@ body {
 }	
 
 h1 {
+	margin: auto;
 	font-family: Arial, sans-serif;
 	color: #9F2B68;
 	text-align: center;
 }
 
 h2 {
+	margin: auto;
 	font-family: Arial, sans-serif;
 	color: #088F8F;
 	text-align: center;
