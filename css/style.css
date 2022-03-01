@@ -12,12 +12,14 @@ body {
 
 h1 {
 	margin: auto;
+	text-align: center;
 	font-family: Arial, sans-serif;
 	color: #9F2B68;
 }
 
 h2 {
 	margin: auto;
+	text-align: center;
 	font-family: Arial, sans-serif;
 	color: #088F8F;
 }
@@ -27,6 +29,7 @@ table, th, td {
   color:  #008080;
   background-color: #191970;
   font-family: Arial, sans-serif;
+  margin: auto;
   text-align: center;
 }
 
