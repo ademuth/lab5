@@ -18,11 +18,13 @@ body {
 h1 {
 	font-family: Arial, sans-serif;
 	color: #9F2B68;
+	text-align: center;
 }
 
 h2 {
 	font-family: Arial, sans-serif;
 	color: #088F8F;
+	text-align: center;
 }
 
 table, th, td {
@@ -30,4 +32,5 @@ table, th, td {
   color:  #008080;
   background-color: #191970;
   font-family: Arial, sans-serif;
+  text-align: center;
 }
