@@ -10,13 +10,19 @@
 	<h1>Some Planets</h1>
 	<h2>Here are some fun and interesting facts about 4 planets in our lovely solar system</h2>
   </header>
-	<figure>
+	<figure class="planet">
 	  <img src="images/jupiter.jpg" alt="jupiter">
 		<figcaption>Jupiter</figcaption>
+	</figure>
+	<figure class="planet">
 	  <img src="images/saturn.jpg" alt="saturn">
 		<figcaption>Saturn</figcaption>
+	</figure>
+	<figure class="planet">
 	  <img src="images/uranus.jpg" alt="uranus">
 		<figcaption>Uranus</figcaption>
+	</figure>
+	<figure class="planet">
 	  <img src="images/neptune.jpg" alt="neptune">
 		<figcaption>Neptune</figcaption>
 	</figure>
