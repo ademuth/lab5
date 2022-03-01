@@ -34,3 +34,8 @@ table, th, td {
   font-family: Arial, sans-serif;
   text-align: center;
 }
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
