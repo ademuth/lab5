@@ -43,3 +43,8 @@ table, th, td {
 .planets {
 	flex: 1;
 }
+
+.description {
+	font-family: Arial, sans-serif;
+	color: #008B8B;
+}

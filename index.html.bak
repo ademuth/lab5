@@ -10,6 +10,7 @@
 	<h1>Some Planets</h1>
 	<h2>Here are some fun and interesting facts about 4 planets in our lovely solar system</h2>
   </header>
+	<div class="container">
 	<figure class="planet">
 	  <img src="images/jupiter.jpg" alt="jupiter">
 		<figcaption>Jupiter</figcaption>
@@ -26,6 +27,7 @@
 	  <img src="images/neptune.jpg" alt="neptune">
 		<figcaption>Neptune</figcaption>
 	</figure>
+	</div>
 	<table>
 	  <tr>
 		<th></th>
