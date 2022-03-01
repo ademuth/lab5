@@ -15,49 +15,49 @@
 		<th>Neptune</th>
 	  </tr>
 	  <tr>
+		<td>Mass (kg)</td>
+		<td>1.90 x 10<sup>27</sup></td>
 		<td></td>
+		<td></td>
+		<td></td>
+	  </tr>
+      <tr>
+		<td>Diameter (km)</td>
+		<td>142,800</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	  </tr>
+	  <tr>
+		<td>Mean Density (kg/m<sup>3</sup>)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	  </tr>
+	  <tr>
+		<td>Escape Velocity</td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
 	  </tr>
       <tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	  </tr>
-	  <tr>
-		<td></td>
+		<td>Average Distance from Sun</td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
 	  </tr>
 	  <tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	  </tr>
-      <tr>
-		<td></td>
+		<td>Rotation Period</td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
 	  </tr>
 	  <tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	  </tr>
-	  <tr>
-		<td></td>
+		<td>Revolution Period</td>
 		<td></td>
 		<td></td>
 		<td></td>
