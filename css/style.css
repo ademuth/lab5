@@ -39,7 +39,7 @@ table, th, td {
 }
 
 .planets {
-	flex: 1;
+	flex: 2;
 }
 
 .planetpics {
