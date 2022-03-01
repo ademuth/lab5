@@ -22,7 +22,7 @@ h1 {
 
 h2 {
 	font-family: Arial, sans-serif;
-	color: #702963;
+	color: #088F8F;
 }
 
 table, th, td {

@@ -10,7 +10,7 @@
 	<h1>Some Planets</h1>
   </header>
 	<h2>Here are some fun and interesting facts about 4 planets in our lovely solar system</h2>
-	<div id="images">
+	<div>
 	  <img src="images/jupiter.jpg" alt="jupiter">
 		<p>Jupiter</p>
 	  <img src="images/saturn.jpg" alt="saturn">
